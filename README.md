@@ -6,7 +6,7 @@ In this project, I simulate UR10 robotic on URsim, ur_Gazebo and RVIZ to test im
 1. Prepare **Ubuntu** and **ROS**.
 2. Go to this [URsim](https://www.universal-robots.com/download/?option=77050#section41511) website to install simulator.
 3. ```roscore```
-4. [download file](https://drive.google.com/file/d/1AuNgwq2Hneshwn6qzMy3e9v8-j8I9Aeq/view?usp=sharing) and ```catkin_make``` file.
+4. [Download File](https://drive.google.com/file/d/1AuNgwq2Hneshwn6qzMy3e9v8-j8I9Aeq/view?usp=sharing) and ```catkin_make``` file.
 - **Part 1 UR10 moving test**  
   - In this part, I use UR10 to move on xy plane along with a line.  
     1. Open UR10 simulator
